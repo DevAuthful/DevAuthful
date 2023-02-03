@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=everton-dgn&color=blueviolet&style=plastic)
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=DevAuthful&color=blueviolet&style=plastic)
   
 </div>
 
 ---
-<h2 align="center">Hi <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+<h2 align="center">Hello, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I'm Eliandro! 
   
 <br />
 <br />
