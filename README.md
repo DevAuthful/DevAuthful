@@ -1,22 +1,6 @@
 
 <h2 align="center">Hello, I'm Eliandro! and this is my github profile.
- --------------
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=DevAuthful&color=blueviolet&style=plastic)
-  
-<br />
-<br />
-
-<div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=DevAuthful&show_icons=true&theme=dracula"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAuthful&layout=compact&theme=dracula"> 
-</div>
-
-<br />
-
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=DevAuthful&theme=dracula" alt="DevAuthful" /></div>
-  
-  
----
+ <br />
 
 <h2 align="center">Technologies</h2>
 <br>
@@ -38,9 +22,9 @@
 <div align="center">
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5514998267484" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
