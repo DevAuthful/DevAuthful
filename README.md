@@ -13,13 +13,13 @@
 <br />
 
 <div align="center">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=everton-dgn&show_icons=true&theme=dracula"> 
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-dgn&layout=compact&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=DevAuthful&show_icons=true&theme=dracula"> 
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAuthful&layout=compact&theme=dracula"> 
 </div>
 
 <br />
 
-<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=everton-dgn&theme=dracula" alt="everton-dgn" /></div>
+<div align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=DevAuthful&theme=dracula" alt="DevAuthful" /></div>
   
   
 ---
